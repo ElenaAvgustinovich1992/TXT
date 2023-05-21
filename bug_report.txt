@@ -1,0 +1,9 @@
+Bug report:
+id
+summary
+steps
+AR
+ER
+attach
+priority
+
