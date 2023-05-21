@@ -1,0 +1,7 @@
+Skills:
+Terminal,
+Postman,
+SQL,
+Git,
+Theory,
+English
